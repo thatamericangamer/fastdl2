@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/theron_guard/slow_theron_guard"
+//	"$bumpmap" "models/player/slow/theron_guard/slow_theron_guard_bump"
+
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/player/slow/theron_guard/slow_theron_guard"
+	"$envmaptint" "[.9 1 .95]" 
+	"$envmapcontrast" .7
+	"$envmapsaturation" .85
+}

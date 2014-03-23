@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "Slow NPC Pack 1"
+	"author_name" "Unknown"
+	"info" "21 models decompiled and recompiled into working NPC / Player models, as well as spawnlist for the ragdolls.   Models in this pack - Alma Biohazzard Police Officer Fatty Jin Roh Goblin Grim Reaper Hellknight Hidden Horror Lycan (jaw ragdoll bugs on death) Mona Sax Palpatine Pyramid Head Tidus Sam Fischer Quake 4 (2 models) Undead Vash the Stampede Verdugo "
+}

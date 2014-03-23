@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/t600/slow_eyes"
+
+ 	"$phong" "1"
+	"$phongexponent" "2"
+	"$phongboost"	".1"
+	"$phongfresnelranges"	"[1 1 1]"
+
+}

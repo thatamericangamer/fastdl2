@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/nailgunner/slow_head"
+	"$bumpmap"  "models/player/slow/nailgunner/slow_head_bump"
+
+	"$selfillum" 1
+
+ 	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost"	"1.95"
+	"$phongfresnelranges"	"[1 1 1]"
+}

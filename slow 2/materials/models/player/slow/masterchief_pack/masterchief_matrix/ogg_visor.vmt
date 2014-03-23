@@ -1,0 +1,25 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/player/slow/masterchief_pack/masterchief_matrix/ogg_visor"
+
+	"$model" 1
+
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.8 1 .8]" 
+	"$normalmapalphaenvmapmask" 0
+	"$envmapcontrast" .75
+	"$envmapsaturation" .85
+
+	"Proxies"
+	{
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" "1"
+			"texturescrollangle" -90
+		}
+
+	}
+}

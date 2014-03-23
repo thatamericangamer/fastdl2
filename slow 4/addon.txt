@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "errrrrrrrrrrrrrrrrrrrrrrre"
+	"author_name" "Unknown"
+	"info" ""
+}

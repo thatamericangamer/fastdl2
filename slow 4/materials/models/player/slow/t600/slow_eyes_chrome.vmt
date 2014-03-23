@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/t600/slow_eyes"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 1 1]" 
+	"$envmapcontrast" .5
+	"$envmapsaturation" 0.25
+}

@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models/player/slow/mass_effect/shepard/slow_body"
+	"$bumpmap"		"models/player/slow/mass_effect/shepard/slow_body_bump"
+	"$selfillum" 	1
+	"$selfillumtint"	"[255 0 0]"
+
+
+ 	"$phong" "1"
+	"$phongexponent" "8"
+	"$phongboost"	"1.5"
+	"$phongfresnelranges"	"[1 1 1]"
+}

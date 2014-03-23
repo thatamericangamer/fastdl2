@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/napalm_atc/slow_body"
+	"$bumpmap"  "models/player/slow/napalm_atc/slow_body_bump"
+
+	"$surfaceprop" "rubber"
+
+	"$selfillum" 1
+
+ 	"$phong" "1"
+	"$phongexponent" "12"
+	"$phongboost"	"3"
+	"$phongfresnelranges"	"[1 1 1]"
+}

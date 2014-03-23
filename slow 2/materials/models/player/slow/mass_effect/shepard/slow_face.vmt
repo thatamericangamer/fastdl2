@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/mass_effect/shepard/slow_face"
+	"$bumpmap"	"models/player/slow/mass_effect/shepard/slow_face_mask"
+
+ 	"$phong" "1"
+	"$phongexponent" "8"
+	"$phongboost"	"1.1"
+	"$phongfresnelranges"	"[1 1 1]"
+}

@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/theron_guard/slow_helmet"
+	"$bumpmap" "models/player/slow/theron_guard/slow_helmet_bump"
+
+
+ 	"$phong" "1"
+//	"$phongexponent" "10"
+	"$phongexponenttexture" "models/player/slow/theron_guard/slow_helmet_exp"
+	"$phongboost"	"5.5"
+	"$phongfresnelranges"	"[.15 .5 1]"
+}

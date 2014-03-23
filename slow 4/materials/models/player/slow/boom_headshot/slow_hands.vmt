@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/boom_headshot/slow_hands"
+	"$bumpmap" "models/player/slow/boom_headshot/slow_hands_bump"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[.75 .05 .02]" 
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+}
+

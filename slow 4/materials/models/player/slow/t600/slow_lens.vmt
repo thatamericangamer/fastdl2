@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/player/slow/t600/slow_lens"
+
+	"$model" 1
+	"$additive" 1
+
+}

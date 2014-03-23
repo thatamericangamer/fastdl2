@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/napalm_atc/slow_helmet"
+	"$bumpmap"  "models/player/slow/napalm_atc/slow_helmet_bump"
+
+	"$selfillum" 1
+	"$surfaceprop" "metal"
+
+ 	"$phong" "1"
+	"$phongexponent" "12"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[1 1 1]"
+}
